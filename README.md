@@ -1,2 +1,2 @@
 # DataScience
-Data Science with Python
+Data Science with Python (Pandas & Matplotlib)
